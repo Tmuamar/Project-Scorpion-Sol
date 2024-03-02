@@ -1,0 +1,374 @@
+Number of Moves: 2
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D JD 4H 10D AH 2S 
+2H KH QH QC AS 4S 7H 
+
+Move AH to 2H.
+Number of Moves: 2
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D JD 4H 10D    2S 
+2H KH QH QC AS    7H 
+AH                   
+4S                   
+
+Move QH to KH.
+Number of Moves: 3
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D JD 4H 10D    2S 
+2H KH    QC AS    7H 
+AH QH                
+4S                   
+
+Move 10D to JD.
+Number of Moves: 4
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D JD 4H       2S 
+2H KH 10D QC       7H 
+AH QH AS             
+4S                   
+
+Move JD to QD.
+Number of Moves: 5
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D    4H    JD 2S 
+2H KH    QC    10D 7H 
+AH QH          AS    
+4S                   
+
+Move 7H to 8H.
+Number of Moves: 6
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D 7H 4H    JD 2S 
+2H KH    QC    10D    
+AH QH          AS    
+4S                   
+
+Move AS to 2S.
+Number of Moves: 7
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+9D 5S 8H 5C AD QD 7C 
+8D 6D 7H 4H    JD 2S 
+2H KH    QC    10D AS 
+AH QH                
+4S                   
+
+Move 9D to 10D.
+Number of Moves: 8
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+   5S 8H 5C AD QD 7C 
+   6D 7H 4H    JD 2S 
+   KH    QC    10D AS 
+   QH          9D    
+               8D    
+               2H    
+               AH    
+               4S    
+
+Number of Moves: 9
+CardCardCardFoundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+   5S 8H 5C AD QD 7C 
+   6D 7H 4H    JD 2S 
+   KH    QC    10D AS 
+   QH          9D    
+               8D    
+               2H    
+               AH    
+               4S    
+
+
+Out of moves Dealing Last 3 Cards
+Number of Moves: 2
+Foundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+2D 5S 8H 5C AD QD 7C 
+   6D 7H 4H    JD 2S 
+   KH 6H QC    10D AS 
+   QH          9D    
+   3S          8D    
+               2H    
+               AH    
+               4S    
+
+Move AD to 2D.
+Number of Moves: 10
+Foundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+2D 5S 8H 5C    QD 7C 
+AD 6D 7H 4H    JD 2S 
+   KH 6H QC    10D AS 
+   QH          9D    
+   3S          8D    
+               2H    
+               AH    
+               4S    
+
+Move 2S to 3S.
+Number of Moves: 11
+Foundation: * * * * 
+[ ][ ][ ][ ]7S 5H KC 
+[ ][ ][ ][ ]AC 5D KD 
+[ ][ ][ ][ ]3H 9H 4C 
+9C 4D 9S KS JS 10H 10S 
+2D 5S 8H 5C    QD 7C 
+AD 6D 7H 4H    JD    
+   KH 6H QC    10D    
+   QH          9D    
+   3S          8D    
+   2S          2H    
+   AS          AH    
+               4S    
+
+Move 5H to 6H.
+Number of Moves: 12
+Foundation: * * * * 
+[ ][ ][ ][ ]7S    KC 
+[ ][ ][ ][ ]AC    KD 
+[ ][ ][ ][ ]3H    4C 
+9C 4D 9S KS JS    10S 
+2D 5S 8H 5C       7C 
+AD 6D 7H 4H          
+   KH 6H QC          
+   QH 5H             
+   3S 5D             
+   2S 9H             
+   AS 10H             
+      QD             
+      JD             
+      10D             
+      9D             
+      8D             
+      2H             
+      AH             
+      4S             
+
+Move 3S to 4S.
+Number of Moves: 13
+Foundation: * * * * 
+[ ][ ][ ][ ]7S    KC 
+[ ][ ][ ][ ]AC    KD 
+[ ][ ][ ][ ]3H    4C 
+9C 4D 9S KS JS    10S 
+2D 5S 8H 5C       7C 
+AD 6D 7H 4H          
+   KH 6H QC          
+   QH 5H             
+      5D             
+      9H             
+      10H             
+      QD             
+      JD             
+      10D             
+      9D             
+      8D             
+      2H             
+      AH             
+      4S             
+      3S             
+      2S             
+      AS             
+
+Move 10S to JS.
+Number of Moves: 14
+Foundation: * * * * 
+[ ][ ][ ][ ]7S    KC 
+[ ][ ][ ][ ]AC    KD 
+[ ][ ][ ][ ]3H    4C 
+9C 4D 9S KS JS       
+2D 5S 8H 5C 10S       
+AD 6D 7H 4H 7C       
+   KH 6H QC          
+   QH 5H             
+      5D             
+      9H             
+      10H             
+      QD             
+      JD             
+      10D             
+      9D             
+      8D             
+      2H             
+      AH             
+      4S             
+      3S             
+      2S             
+      AS             
+
+Move KH to empty column6
+Number of Moves: 15
+Foundation: * * * * 
+[ ][ ][ ][ ]7S KH KC 
+[ ][ ][ ][ ]AC QH KD 
+[ ][ ][ ][ ]3H    4C 
+9C 4D 9S KS JS       
+2D 5S 8H 5C 10S       
+AD 6D 7H 4H 7C       
+      6H QC          
+      5H             
+      5D             
+      9H             
+      10H             
+      QD             
+      JD             
+      10D             
+      9D             
+      8D             
+      2H             
+      AH             
+      4S             
+      3S             
+      2S             
+      AS             
+
+Move 5D to 6D.
+Number of Moves: 16
+Foundation: * * * * 
+[ ][ ][ ][ ]7S KH KC 
+[ ][ ][ ][ ]AC QH KD 
+[ ][ ][ ][ ]3H    4C 
+9C 4D 9S KS JS       
+2D 5S 8H 5C 10S       
+AD 6D 7H 4H 7C       
+   5D 6H QC          
+   9H 5H             
+   10H                
+   QD                
+   JD                
+   10D                
+   9D                
+   8D                
+   2H                
+   AH                
+   4S                
+   3S                
+   2S                
+   AS                
+
+Move 4H to 5H.
+Number of Moves: 17
+Foundation: * * * * 
+[ ][ ][ ][ ]7S KH KC 
+[ ][ ][ ][ ]AC QH KD 
+[ ][ ][ ][ ]3H    4C 
+9C 4D 9S KS JS       
+2D 5S 8H 5C 10S       
+AD 6D 7H    7C       
+   5D 6H             
+   9H 5H             
+   10H 4H             
+   QD QC             
+   JD                
+   10D                
+   9D                
+   8D                
+   2H                
+   AH                
+   4S                
+   3S                
+   2S                
+   AS                
+
+Move 4C to 5C.
+Number of Moves: 18
+Foundation: * * * * 
+[ ][ ][ ][ ]7S KH KC 
+[ ][ ][ ][ ]AC QH KD 
+[ ][ ][ ][ ]3H       
+9C 4D 9S KS JS       
+2D 5S 8H 5C 10S       
+AD 6D 7H 4C 7C       
+   5D 6H             
+   9H 5H             
+   10H 4H             
+   QD QC             
+   JD                
+   10D                
+   9D                
+   8D                
+   2H                
+   AH                
+   4S                
+   3S                
+   2S                
+   AS                
+
+Move QD to KD.
+Number of Moves: 19
+Foundation: * * * * 
+[ ][ ][ ][ ]7S KH KC 
+[ ][ ][ ][ ]AC QH KD 
+[ ][ ][ ][ ]3H    QD 
+9C 4D 9S KS JS    JD 
+2D 5S 8H 5C 10S    10D 
+AD 6D 7H 4C 7C    9D 
+   5D 6H          8D 
+   9H 5H          2H 
+   10H 4H          AH 
+      QC          4S 
+                  3S 
+                  2S 
+                  AS 
+
+Number of Moves: 20
+Foundation: * * * * 
+[ ][ ][ ][ ]7S KH KC 
+[ ][ ][ ][ ]AC QH KD 
+[ ][ ][ ][ ]3H    QD 
+9C 4D 9S KS JS    JD 
+2D 5S 8H 5C 10S    10D 
+AD 6D 7H 4C 7C    9D 
+   5D 6H          8D 
+   9H 5H          2H 
+   10H 4H          AH 
+      QC          4S 
+                  3S 
+                  2S 
+                  AS 
+
